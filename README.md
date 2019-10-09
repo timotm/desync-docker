@@ -1,1 +1,1 @@
-# desync-docker
+https://github.com/folbricht/desync/
